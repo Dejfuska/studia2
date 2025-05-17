@@ -1,3 +1,15 @@
-#Moj projekt
+#Dodawanie i odejmowanie liczb w pythonie
 
-#Testowy na studia
+Program dodajacy i odejmujacy dwie liczby
+
+##FUNKCJONALNOSC
+
+- odejmowanie liczb
+- dodawanie liczb
+
+##UZYCIE 
+
+dodanie lub odjecie duzych liczb, niepoliczalnych w glowie
+
+## LICENCJA
+brak
