@@ -13,4 +13,4 @@ dodanie lub odjecie duzych liczb, niepoliczalnych w glowie
 
 ## LICENCJA
 brak
-## Loan Calculator added to project
+## Kalkulator dodany
